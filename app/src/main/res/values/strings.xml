@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Capstone Notes</string>
+    <string name="title_note_detail">Note Detail</string>
+    <string name="title">Note from:</string>
+    <string name="licenses">Licenses</string>
+    <string name="sadtext">Could not be added because of a version conflict :(</string>
+    <string name="type_your_text_here">Type your text here...</string>
+    <string name="click_to_add_title">Click to add Title</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="delete_note">Delete Note?</string>
+    <string name="are_you_sure_you_want_to_delete">Are you sure you want to delete \"</string>
+    <string name="count">Count</string>
+    <string name="times">times.</string>
+    <string name="found">Found</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="warning">Warning, do not actually store anything important within the notes as the database is configured to be public</string>
+    <string name="number_of_notes">Number of notes</string>
+    <string name="name_of_note">Name of Note</string>
+    <string name="list_of_notes">List of Notes</string>
+    <string name="add_note_button">Add note button</string>
+    <string name="advertisement">Advertisement</string>
+</resources>
